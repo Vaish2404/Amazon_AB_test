@@ -27,11 +27,16 @@ Evaluate whether a new product page design (test group) leads to higher engageme
 
 - 'Simulated_A_B_Test.ipynb' – Full A/B testing analysis notebook
 - 'README.md' – Project overview and documentation
+- Output visuals and charts (embedded in notebook)
 
 ## Insights
 
 - No significant difference in page visits (p=0.7440)
 - No significant difference in time on page (p=0.9811)
 - Significant lift in conversions (p=0.0000)
+
+## Contact
+
+For collaboration or questions, feel free to reach out via [LinkedIn](https://linkedin.com/in/vaishu-gandham)
 
 
