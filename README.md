@@ -25,7 +25,7 @@ Evaluate whether a new product page design (test group) leads to higher engageme
 
 ## Files
 
-- 'amazon_ab_test.ipynb' – Full A/B testing analysis notebook
+- 'Simulated_A_B_Test.ipynb' – Full A/B testing analysis notebook
 - 'README.md' – Project overview and documentation
 
 ## Insights
